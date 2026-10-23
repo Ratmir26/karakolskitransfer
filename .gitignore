@@ -1,0 +1,4 @@
+.playwright-mcp/
+fix_*.py
+transcribe.py
+check.js
