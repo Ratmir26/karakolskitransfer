@@ -15,7 +15,7 @@
 | Мобильная адаптивность | Готово | 980px и 640px |
 | SEO-пакет | Готово | Meta/OG/Twitter/canonical/hreflang/robots/sitemap |
 | Документация | Готово | docs/ синхронизированы с кодом |
-| Деплой | Не начат | Нужен новый GitHub-репозиторий и Vercel |
+| Деплой | Частично | Репозиторий запушен; Vercel ждёт авторизации |
 | Домен | Не начат | `karakolskitransfer.com` — ждёт оплаты |
 | Google Ads | Не начат | После запуска сайта |
 
@@ -54,9 +54,9 @@
 - [x] Оценка стоимости и сообщение в WhatsApp
 - [x] Мобильная вёрстка
 - [x] SEO-теги и sitemap
-- [ ] Проверка через Playwright на локальном сервере
-- [ ] Новый GitHub-репозиторий
-- [ ] Деплой на Vercel
+- [x] Проверка через Playwright на локальном сервере
+- [x] Новый GitHub-репозиторий (`Ratmir26/karakolskitransfer`)
+- [ ] Деплой на Vercel (нужна авторизация)
 - [ ] Домен `karakolskitransfer.com` + HTTPS
 - [ ] Google Search Console
 
